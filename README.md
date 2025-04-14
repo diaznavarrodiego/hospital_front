@@ -2,9 +2,8 @@ Pagina web para el Hospital Municipal Eustaquio Aristizabal.
 La misma formo parte del proyecto que decidi realizar para la entrega del trabajo practico final de la cursada "Codo a Codo - Full Stack NodeJS" durante el 2024. 
 Fue mi primer pagina web y el primer contacto con JS.
 
-
-/* Arbol del proyecto:
-
+# Estructura del Proyecto
+```
 hospital_fron/
 ├── api/
 │   └── medicos.json     # Json con toda la data de cada uno de los medicos para el manejo de la agenda de turnos.
@@ -35,3 +34,4 @@ hospital_fron/
 |
 ├── index.html         # Pagina principal.
 └── README.md          # Documentación del proyecto
+```
