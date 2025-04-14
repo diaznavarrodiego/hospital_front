@@ -3,8 +3,7 @@ La misma formo parte del proyecto que decidi realizar para la entrega del trabaj
 Fue mi primer pagina web y el primer contacto con JS.
 
 # Estructura del Proyecto
-```
-hospital_fron/
+```hospital_fron/
 ├── api/
 │   └── medicos.json     # Json con toda la data de cada uno de los medicos para el manejo de la agenda de turnos.
 ├── css/                 # Estilos de las paginas.
